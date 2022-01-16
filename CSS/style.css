@@ -1,0 +1,46 @@
+.header{
+    background-image: url("../images/edu1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 12%;
+    padding-top: 10%;
+    padding-left: 3%;
+}
+
+.payment{
+    padding-right: 100px;
+    margin-top: auto;
+}
+.display-2{
+    font-weight: 500;
+    text-align: right;
+}
+.about1{
+    background-image: url("../images/images.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 2%;
+    color: white;
+    text-shadow: black;
+}
+.about2{
+    background-image: url("../images/book.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 2%;
+    color: white;
+    text-shadow: black;
+}
+.donate{
+    background-image: url("../images/education-children.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 12%;
+    padding-top: 10%;
+    padding-left: 3%;
+}
+
+.contact-form{
+    margin-top: 40px;
+}
+
